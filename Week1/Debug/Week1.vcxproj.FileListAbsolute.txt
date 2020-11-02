@@ -1,0 +1,2 @@
+C:\DevProgram\C++\Week1\Debug\Week1.exe
+C:\DevProgram\C++\Week1\Debug\Week1.pdb
